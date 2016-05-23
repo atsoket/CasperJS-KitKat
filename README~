@@ -1,0 +1,10 @@
+Preencher o ficheiro contas, com username/emails e passwords.
+Exemplo:
+conta1 passwordConta1
+conta2 passwordConta2
+
+Para correr o script:
+bash script.bash
+
+Uma boa execução gera uma imagem com o nome "O$USER_a_votar_em.png", que deverá mostrar a playlist do IST
+e mostrará no terminal a expressão "DONE!"
