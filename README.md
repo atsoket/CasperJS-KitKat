@@ -1,4 +1,4 @@
-# CasperJS-Biathlonmania-Script
+# CasperJS-KitKat
 
 This script was made to vote with multiple facebook accounts in a small contest. [The contest is over]
 
